@@ -1,8 +1,10 @@
-# gclog
+# GCLOG
 Log shareable cURL to Developer Console, to Messenging Program, and more (https://getcurl.app)
 
-# Swift
+## Supported languages
 
-## Kotlin
+### Swift
 
-### Javascript
+#### Kotlin
+
+##### Javascript
