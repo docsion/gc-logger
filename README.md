@@ -3,8 +3,8 @@ Log shareable cURL to Developer Console, to Messenging Program, and more (https:
 
 ## Supported languages
 
-### Swift
+##### [Swift](https://github.com/docsion/GCLogSwift)
 
-#### Kotlin
+##### [Kotlin](https://github.com/docsion/gclog-kt)
 
-##### Javascript
+##### [Javascript](https://github.com/docsion/gclog-js)
