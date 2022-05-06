@@ -1,0 +1,9 @@
+[submodule "GCLogSwift"]
+	path = GCLogSwift
+	url = git@github.com:docsion/GCLogSwift.git
+[submodule "gclog-kt"]
+	path = gclog-kt
+	url = git@github.com:docsion/gclog-kt.git
+[submodule "gclog-js"]
+	path = gclog-js
+	url = git@github.com:docsion/gclog-js.git
