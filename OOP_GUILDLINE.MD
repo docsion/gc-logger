@@ -24,7 +24,13 @@
 - Any http request object, which don't have cURL logging builtin function, should extend from HttpLogParser, and implement how to getHeaders(), getBody(), getMethod(), getUrl().
 
 ### Things you need to follow
-- Logic at function `GcLog > logContent(string)`: Generate GETCURL link from cURL string. Example -> [GCLog.swift](https://github.com/docsion/GCLogSwift/blob/42ee48aa896656a3f4f141f0a170c227d30032f1/Sources/GCLog.swift#L102)
+- Logic at function `GcLog > logContent(string)`: Generate GETCURL link from cURL string. 
+ ```
+  // Create base64, utf8 needed
+  // Make URL Encoded
+  // Concat to 'https://getcurl.app/#body=<data>'
+```
+ Example -> [GCLog.swift](https://github.com/docsion/GCLogSwift/blob/42ee48aa896656a3f4f141f0a170c227d30032f1/Sources/GCLog.swift#L102)
 
 
 ### Standard Project
