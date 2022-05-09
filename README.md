@@ -13,6 +13,10 @@ Swift, Kotlin, Javascript and 99+ programing languages are supported.
 
 #### [Javascript](https://github.com/docsion/gclog-js)
 
+#### [Java](https://github.com/docsion/gclog-java)
+
+#### [C++](https://github.com/docsion/gclog-cplusplus)
+
 #### [Don't find yours, request now!](https://github.com/docsion/gclog/issues/new)
 
 
