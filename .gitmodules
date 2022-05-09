@@ -10,3 +10,9 @@
 	path = gclog-js
 	url = git@github.com:docsion/gclog-js.git
 	branch = main
+[submodule "gclog-java"]
+	path = gclog-java
+	url = git@github.com:docsion/gclog-java.git
+[submodule "gclog-cplusplus"]
+	path = gclog-cplusplus
+	url = git@github.com:docsion/gclog-cplusplus.git
