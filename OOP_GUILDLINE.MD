@@ -33,11 +33,11 @@
 
 ## OOP Languages
 
-- Swift
-- Kotlin
-- Java
-- JavaScript
-- C++
+- ✅ [Swift](https://github.com/docsion/GCLogSwift)
+- ☑️ [Kotlin](https://github.com/docsion/gclog-kt)
+- ☑️ [Java](https://github.com/docsion/gclog-java)
+- ☑️ [JavaScript](https://github.com/docsion/gclog-js)
+- ☑️ [C++](https://github.com/docsion/gclog-cplusplus)
 - C#
 - Python
 - R
