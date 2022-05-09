@@ -20,7 +20,7 @@
  ```
  
 ### You need to adapt more writer, parser, so
-- Create new class and extend from the GcLogWriter, GcLogParser
+- Create new class and extend from GcLogWriter, GcLogParser
 - Any http request object, which don't have cURL logging builtin function, should extend from HttpLogParser, and implement how to getHeaders(), getBody(), getMethod(), getUrl().
 
 ### Things you need to follow
