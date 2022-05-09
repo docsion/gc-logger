@@ -65,4 +65,4 @@
  [Swift, Kotlin, Javascript and 99+ programing languages are supported.](https://github.com/docsion/gclog)
 
 ## Contact
- https://getcurl.app
+ https://getcurl.app/hello
