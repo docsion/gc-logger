@@ -5,7 +5,7 @@
 ![gclog](https://user-images.githubusercontent.com/4256921/167370531-66204248-b3aa-4dd8-a87c-7ebf22fd5f27.png)
 
 - GcLog: The main class, which control log writer, log parser and tranfer cURL string to GETCURL link.
-- GcLogWriter: The writer, which write your GETCURL link to any source, e.g. Developer Console, Telegram, Slack
+- GcLogWriter: The writer, which write your GETCURL link to any source, e.g. Developer Console, Telegram, Slack.
 - ConsoleLogWriter: Default log writer, log GETCURL link to Developer Console.
 - GcLogParser: The parser, which parse the any object to cURL string.
 - StringLogParser: Default log parser, actually don't do anything, just string -> string.
