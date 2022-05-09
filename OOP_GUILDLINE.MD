@@ -36,12 +36,12 @@
 - Swift
 - Kotlin
 - Java
+- JavaScript
 - C++
 - C#
 - Python
 - R
 - PHP
-- JavaScript
 - Ruby
 - Perl
 - Dart
