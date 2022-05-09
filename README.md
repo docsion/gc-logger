@@ -21,4 +21,4 @@ Swift, Kotlin, Javascript and 99+ programing languages are supported.
 
 
 ## Contact
-https://getcurl.app
+https://getcurl.app/hello
